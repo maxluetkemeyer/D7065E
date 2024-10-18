@@ -700,7 +700,7 @@
     <packagedElement xmi:type="uml:Association" xmi:id="_o-FbsIi4Ee-x-4hDgexpEg"/>
     <packagedElement xmi:type="uml:Class" xmi:id="_PkIpgIi7Ee-x-4hDgexpEg" name="LampDesignDescription">
       <generalization xmi:type="uml:Generalization" xmi:id="_UWrLcIi7Ee-x-4hDgexpEg" general="_8gWk0IGOEe-Q6ouSd0nK5Q"/>
-      <ownedAttribute xmi:type="uml:Port" xmi:id="_VBxsAIi9Ee-5UcDnYtyIEw" name="Light - Interface Light A" type="_hiE1wIi7Ee-x-4hDgexpEg" aggregation="composite"/>
+      <ownedAttribute xmi:type="uml:Port" xmi:id="_VBxsAIi9Ee-5UcDnYtyIEw" name="Light-HTTP" type="_hiE1wIi7Ee-x-4hDgexpEg" aggregation="composite"/>
       <ownedAttribute xmi:type="uml:Port" xmi:id="_s004MIjCEe-5UcDnYtyIEw" name="ConsumerAuthentication-HTTP" visibility="package" type="_4XXX4G9TEe-sN-reFm5zLA" aggregation="composite" subsettedProperty="_Flkf4IjBEe-5UcDnYtyIEw" isConjugated="true"/>
       <ownedAttribute xmi:type="uml:Port" xmi:id="_XQJZUIjDEe-5UcDnYtyIEw" name="ServiceOrchestration-HTTP" visibility="package" type="_81HcECcGEe-kO5sLBQPK1Q" aggregation="composite" subsettedProperty="_XYXTcIi-Ee-5UcDnYtyIEw" isConjugated="true"/>
       <ownedAttribute xmi:type="uml:Port" xmi:id="_k7ZoYIjDEe-5UcDnYtyIEw" name="GetPublicKey-HTTP" visibility="package" type="_CbCAECclEe-kO5sLBQPK1Q" aggregation="composite" subsettedProperty="_38AS4IjAEe-5UcDnYtyIEw" isConjugated="true"/>
